@@ -1,0 +1,39 @@
+{
+    "name": "Torchmaster",
+    "icon": "torchmaster:megatorch",
+    "category": "patchouli:mod_content/light",
+    "pages": [
+        {
+            "type":"patchouli:text",
+            "text":"The mod $(mod)Torchmaster$() adds a handful of lighting options."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "title":"Mega Torch",
+            "item":"torchmaster:megatorch",
+            "text": "The $(item)Mega Torch$() prevents monsters from spawning within 64 blocks of itself."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "title":"Feral Flame Lantern",
+            "item":"torchmaster:feral_flare_lantern",
+            "text": "The $(item)Feral Flame Lantern$() will place invisible lights in an area around itself."
+        },
+        {
+            "type":"patchouli:image",
+            "images":["ftb_one:textures/patchouli/screenshots/feral_flame.png"],
+            "border":true
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"torchmaster:frozen_pearl",
+            "text":"Breaking the Lantern $(o)should$() remove all the invisible light blocks, but if that doesn't work, the $(item)Frozen Pearl$() should do the trick."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "title":"Dread Lamp",
+            "item":"torchmaster:dreadlamp",
+            "text": "The $(item)Dread Lamp$() prevents $(o)passive$() mobs from spawning within 64 blocks of itself."
+        }
+    ]
+}

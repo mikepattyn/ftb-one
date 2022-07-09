@@ -1,0 +1,16 @@
+{
+    "name": "Rechiseled",
+    "icon": "rechiseled:chisel",
+    "category": "patchouli:mod_content/building",
+    "pages": [
+        {
+            "type":"patchouli:text",
+            "text":"$(mod)Rechiseled$() adds a very large amount of decorative blocks, using vanilla blocks as a base.$(br2)Right-click a $(item)Chisel$() to open it. Place a block that can be chiseled inside, choose the version you want, then click the Chisel button."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"rechiseled:chisel",
+            "text":"You can see 3 previews of what the block looks like when placed in various shapes. You can also toggle whether or not the textures connect with each other."
+        }
+    ]
+}

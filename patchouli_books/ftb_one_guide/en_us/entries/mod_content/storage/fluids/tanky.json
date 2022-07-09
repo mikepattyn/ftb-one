@@ -1,0 +1,25 @@
+{
+    "name": "Tanky",
+    "icon": "tanky:iron_tank_glass",
+    "category": "patchouli:mod_content/storage/fluids",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(mod)Tanky$() adds two tiers of multiblock $(item)Tanks$(), which store fluids depending on their size. The bigger the multiblock, the more fluid stored."
+        },
+        {
+            "type":"patchouli:image",
+            "images":["ftb_one:textures/patchouli/screenshots/tanky.png"],
+            "text":"Image taken from mod page"
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"tanky:iron_tank_controller",
+            "text":"Place the $(item)Tank Controller$() in the center of the tank's floor, and then make the rest of the Tank out of $(item)Tank Walls$(). Non-corners can be $(item)Tank Glass$() if desired.$(br2)Tanks can be uo to 24 blocks tall, and 19 blocks wide."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Fluids can be inserted or extracted from any part of the Tank. $(br2)Breaking the Tank Controller will destroy all the fluid inside."
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Misc",
+    "description": "Everything that didn't fit elsewhere.",
+    "icon": "minecraft:stick",
+    "parent": "patchouli:mod_content",
+    "sortnum": 9
+}

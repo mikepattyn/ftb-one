@@ -1,0 +1,19 @@
+
+#General settings related to tanks
+[General]
+	#Maximum height of the tank
+	#Range: 1 ~ 32
+	max_height = 9
+	#Maximum radius of the tank
+	#Range: 1 ~ 32
+	max_radius = 24
+
+#Defines the capacity per block of each builtin tank tier
+[Capacity]
+	#Base capacity in mB of iron tanks.
+	#Range: > 1
+	iron_capacity = 16000
+	#Base capacity in mB of steel tanks.
+	#Range: > 1
+	steel_capacity = 32000
+

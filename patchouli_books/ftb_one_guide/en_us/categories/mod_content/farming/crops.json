@@ -1,0 +1,7 @@
+{
+    "name": "Crops",
+    "description": "Pretty much all the ways of farming crops.",
+    "icon": "minecraft:wheat",
+    "parent": "patchouli:mod_content/farming",
+    "sortnum":0
+}

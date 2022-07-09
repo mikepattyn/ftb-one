@@ -1,0 +1,7 @@
+{
+    "name": "Redstone",
+    "description": "Redstone is used for controlling automating. Here are some ways to use it and automate your factories.",
+    "icon": "minecraft:redstone",
+    "parent": "patchouli:mod_content",
+    "sortnum": 7
+}

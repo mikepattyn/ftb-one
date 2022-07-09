@@ -1,0 +1,16 @@
+{
+    "name": "Simply Backpacks",
+    "icon": "simplybackpacks:commonbackpack",
+    "category": "patchouli:mod_content/misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(mod)Simply Backpacks$() adds 5 tiers of $(item)Backpacks$() that store items.$(br2)They can also be worn in a Curios slot, and be opened with the $(info)Open Backpack$() key, currently bound to [$(k:simplybackpacks.backpackopen.desc)].$(br2)Each tier holds more items."
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"simplybackpacks:commonbackpack",
+            "recipe2":"simplybackpacks:uncommonbackpack"
+        }
+    ]
+}

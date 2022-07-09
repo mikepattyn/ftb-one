@@ -1,0 +1,7 @@
+{
+    "name": "Items",
+    "description": "Storing items",
+    "icon": "minecraft:chest",
+    "parent": "patchouli:mod_content/storage",
+    "sortnum":0
+}

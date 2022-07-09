@@ -1,0 +1,7 @@
+{
+    "name": "Mobs",
+    "description": "Pretty much all the ways of farming animals.",
+    "icon": "minecraft:cooked_beef",
+    "parent": "patchouli:mod_content/farming",
+    "sortnum":1
+}

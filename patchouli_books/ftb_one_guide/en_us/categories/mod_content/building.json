@@ -1,0 +1,7 @@
+{
+    "name": "Building",
+    "description": "For builders, having a good-looking house is important. Here are some tools and blocks you'll find to build your dream house or factory.",
+    "icon": "minecraft:bricks",
+    "parent": "patchouli:mod_content",
+    "sortnum": 4
+}

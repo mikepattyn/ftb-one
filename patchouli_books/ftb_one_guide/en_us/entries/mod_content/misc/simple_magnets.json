@@ -1,0 +1,18 @@
+{
+    "name": "Simple Magnets",
+    "icon": "simplemagnets:basicmagnet",
+    "category": "patchouli:mod_content/misc",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item":"simplemagnets:basicmagnet",
+            "title":"Simple Magnets",
+            "text": "$(mod)Simple Magnets$() adds $(item)Magnets$() that help you pick up items and xp at greater distance.$(br2)Right-click a Magnet to turn it on or off. Sneak right-click an $(o)Advanced$() Magnet to configure it."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"simplemagnets:basic_demagnetization_coil",
+            "text":"The $(item)Demagnetization Coil$() stops the Magnet from picking up items nearby.$(br2)The $(item)Advanced$() version has a higher range and can be filtered."
+        }
+    ]
+}

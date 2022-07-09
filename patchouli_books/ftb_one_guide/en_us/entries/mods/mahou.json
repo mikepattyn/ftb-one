@@ -1,0 +1,16 @@
+{
+    "name": "Mahou Tsukai",
+    "icon": "mahoutsukai:mystic_staff",
+    "category": "patchouli:mods",
+    "pages": [
+        {
+            "type":"patchouli:text",
+            "text":"$(mod)Mahou Tsukai$() adds a large variety of magical spells and items, and strives to be as unique as possible.$(br2)Additionally, it's roughly 99% anime references."
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"mahoutsukai:guidebook",
+            "text":"The mod's guide book"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Macaw's Mods",
+    "icon": "mcwbridges:iron_bridge",
+    "category": "patchouli:mod_content/building",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(mod)Macaw's mods$() add a large variety of building blocks to use.$(br2)From the names of the mods, it should hopefully be obvious what each adds. If not, you can search \"@macaw\" in REI to see for yourself."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"Of Macaw's mods, this pack has: $(mod)$(li)Macaw's Windows$(li)Macaw's Windows Additions$(li)Macaw's Bridges$(li)Macaw's Trapdoors$(li)Macaw's Fences and Walls$(li)Macaw's Roofs$(li)Macaw's Furniture$(li)Macaw's Paths and Pavings$(li)Macaw's Lights and Lamps"
+        }
+    ]
+}

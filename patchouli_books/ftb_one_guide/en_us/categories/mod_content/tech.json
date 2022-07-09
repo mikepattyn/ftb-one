@@ -1,0 +1,7 @@
+{
+    "name": "Technology",
+    "description": "The sciencey mods!",
+    "icon": "ftbic:tin_gear",
+    "parent": "patchouli:mod_content",
+    "sortnum": 3
+}

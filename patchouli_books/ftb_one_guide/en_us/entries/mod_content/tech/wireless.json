@@ -1,0 +1,23 @@
+{
+    "name": "Wireless Chargers",
+    "icon": "wirelesschargers:basic_wireless_block_charger",
+    "category": "patchouli:mod_content/tech",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(mod)Wireless Chargers$() adds some machines to $(info)wirelessly charge nearby machines and player inventories$()."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"wirelesschargers:basic_wireless_block_charger",
+            "title":"Block Chargers",
+            "text":"The $(item)Wireless Block Chargers$() will charge nearby machines with FE. The Advanced one charges faster and in a wider range."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"wirelesschargers:basic_wireless_player_charger",
+            "title":"Player Chargers",
+            "text":"The $(item)Wireless Player Chargers$() will charge the items in nearby players' inventories. The Advanced one charges faster and in a wider range."
+        }
+    ]
+}

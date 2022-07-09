@@ -1,0 +1,6 @@
+{
+    "name": "Information",
+    "description": "Introduction section for the modpack. Report bugs, suggest things or understand what this modpack is about.",
+    "icon": "ftb_one:textures/patchouli/main_categories/introduction.png",
+    "sortnum": 2
+}

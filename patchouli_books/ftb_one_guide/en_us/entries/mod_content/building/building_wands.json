@@ -1,0 +1,51 @@
+{
+    "name": "Building Wands",
+    "icon": "wands:iron_wand",
+    "category": "patchouli:mod_content/building",
+    "pages": [
+        {
+            "type":"patchouli:text",
+            "text":"$(mod)Building Wands$() adds 4 tiers of $(item)Wand$(), which greatly help with placing blocks for building.$(br2)It has several placement modes, which can be toggled with the Mode key ($(info)$(k:wands.wand_mode)$() by default). The modes, in order, are:"
+        },
+        {
+            "type":"patchouli:text",
+            "title":"Directional Mode",
+            "text":"Place blocks in a direction from the block aimed at without having to move.$(br2)Can be placed in 8 directions: the 4 cardinals, the 4 diagonals, and the face opposite."
+        },
+        {
+            "type":"patchouli:text",
+            "title":"Row/Column Mode",
+            "text":"Places either a row or column of the block.$(br2)Toggle which using the Orientation key ($(info)$(k:wands.wand_orientation)$() by default)."
+        },
+        {
+            "type":"patchouli:text",
+            "title":"Fill Mode",
+            "text":"Right-click two opposite corners of a cuboid, and it fills that volume."
+        },
+        {
+            "type":"patchouli:text",
+            "title":"Area Mode",
+            "text":"Places on an entire connected surface of blocks."
+        },
+        {
+            "type":"patchouli:text",
+            "title":"Line Mode",
+            "text":"Right-click two opposite corners of a line, and it places along that length."
+        },
+        {
+            "type":"patchouli:text",
+            "title":"Circle Mode",
+            "text":"Right-click where the center is, then right-click again somewhere else to set the radius.$(br2)Places either along the circumference or fills the entire circle, depending on how the wand is configured ($(k:wands.wand_fill_circle) to toggle)."
+        },
+        {
+            "type":"patchouli:text",
+            "title":"Rectangle Mode",
+            "text":"Right-click two opposite corners of a cuboid, and places along 2 sides, the top, and the bottom."
+        },
+        {
+            "type":"patchouli:text",
+            "title":"Copy/Paste Modes",
+            "text":"In copy mode, right-click two opposite corners of a cuboid to copy the contents.$(br2)In paste mode, right-click to place what is copied."
+        }
+    ]
+}

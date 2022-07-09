@@ -1,0 +1,11 @@
+{
+    "name": "Dark Utilities",
+    "icon": "darkutils:vector_plate",
+    "category": "patchouli:mods",
+    "pages": [
+        {
+            "type":"patchouli:text",
+            "text":"$(mod)Dark Utils$() adds a handful of blocks that make mob grinding easier>$(br2)You can search for \"@darkutils\" in REI; every item explains what it does in its tooltip."
+        }
+    ]
+}

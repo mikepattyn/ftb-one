@@ -1,0 +1,7 @@
+{
+    "name": "Farming",
+    "description": "The key to maintaining a good farm is a dose of sunlight and some water!",
+    "icon": "minecraft:golden_hoe",
+    "parent": "patchouli:mod_content",
+    "sortnum": 2
+}

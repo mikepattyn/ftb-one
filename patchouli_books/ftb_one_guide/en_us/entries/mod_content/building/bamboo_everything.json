@@ -1,0 +1,11 @@
+{
+    "name": "Bamboo Everything",
+    "icon": "bambooeverything:bamboo_bundle",
+    "category": "patchouli:mod_content/building",
+    "pages": [
+        {
+            "type":"patchouli:text",
+            "text":"$(mod)Bamboo Everything$() adds a handful of Bamboo-themed blocks. Wow!"
+        }
+    ]
+}

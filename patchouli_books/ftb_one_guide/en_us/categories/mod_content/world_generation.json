@@ -1,0 +1,7 @@
+{
+    "name": "World Generation",
+    "description": "Features are structures or ores that will appear in your world. Here is some important information to help you discover them.",
+    "icon": "minecraft:coal_ore",
+    "parent": "patchouli:mod_content",
+    "sortnum": 7
+}

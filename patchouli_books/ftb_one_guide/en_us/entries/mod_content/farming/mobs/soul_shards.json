@@ -1,0 +1,31 @@
+{
+    "name": "Soul Shards",
+    "icon": "soulshards:soul_shard",
+    "category": "patchouli:mod_content/farming/mobs",
+    "pages": [
+        {
+            "type":"patchouli:text",
+            "text": "$(mod)Soul Shards$() allows you to quickly and easily spawn a large amount of mobs automatically.$(br2)First, kill any mob while holding a Soul Shard in your offhand to absorb that mob's soul to the Shard."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"soulshards:soul_shard",
+            "text":"Place Glowstone, place 4 $(n)normal$() Blocks of Quartz around it, then place Obsidian in the corners.$(br2)Use a Diamond on the Glowstone in the center to craft the Soul Shard."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"soulshards:vile_sword",
+            "text":"The $(item)Vile Sword$() will give the Shard an extra soul per kill, as does each level of the $(item)Soul Stealer$() enchantment.$(br2)You can use a Soul Shard on a Spawner that spawns the Shard's mob, and it will add 200 souls to the Shard."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"soulshards:soul_cage",
+            "text":"Insert your Shard into a $(item)Soul Cage$() to make it spawn mobs.$(br2)Higher tier Shards work faster and have more features:$(li)Tier 3 does not need the player nearby$(li)Tier 4 does not need low light$(li)Tier 5 can be disabled with Redstone"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"You can see how many souls are required for each tier in REI.$(br2)In this pack, each tier adds +1 to the amount spawned (starting at 1).$(br2)Each tier also removes several seconds from the delay between waves."
+        }
+    ],
+    "sortnum":3
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Connected Glass",
+    "icon": "connectedglass:clear_glass",
+    "category": "patchouli:mod_content/building",
+    "pages": [
+        {
+            "type":"patchouli:text",
+            "text":"$(mod)Connected Glass$() adds four new glass types. When any of the same type are placed next to each other, their textures will connect to make one larger window.$(br2)Each type comes in all colors, and has a Glass Pane version as well."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(item)Connecting Glass$() is just normal Glass.$(br2)$(item)Clear Glass$() does not have streaks.$(br2)$(item)Scratched Glass$() uses the older Glass texture.$(br2)$(item)Connecting Tinted Glass$() acts as Tinted Glass."
+        }
+    ]
+}

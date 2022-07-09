@@ -1,0 +1,7 @@
+{
+    "name": "Other Resources",
+    "description": "Pretty much all the ways of farming other resources.",
+    "icon": "minecraft:diamond",
+    "parent": "patchouli:mod_content/farming",
+    "sortnum":2
+}

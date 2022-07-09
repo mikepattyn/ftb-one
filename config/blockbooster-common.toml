@@ -1,0 +1,17 @@
+
+[General]
+	#Forge Energy per tick to operate
+	fe_per_tick = 10000
+	#Boost rate
+	boost_rate = 5
+	#Boost entities at the top of booster block?
+	boost_top = true
+	#Boost entities at the bottom of booster block?
+	boost_bottom = true
+	#Deactivate booster with redstone signal
+	deactivate_with_redstone = true
+	#Blacklist of block entities (example: "minecraft:furnace","somemod:machine")
+	black_list = []
+	#Whitelist of block entities (example: "minecraft:furnace","somemod:machine") has higher priority
+	white_list = []
+

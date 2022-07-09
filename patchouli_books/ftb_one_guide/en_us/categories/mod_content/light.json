@@ -1,0 +1,7 @@
+{
+    "name": "Light",
+    "description": "Tips for lighting your way around massive cave systems and an enumeration of all sources of light in the game.",
+    "icon": "minecraft:torch",
+    "parent": "patchouli:mod_content",
+    "sortnum": 0
+}

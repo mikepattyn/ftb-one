@@ -1,0 +1,16 @@
+{
+    "name": "Travel Anchor",
+    "icon": "travelanchors:travel_anchor",
+    "category": "patchouli:mod_content/misc",
+    "pages": [
+        {
+            "type":"patchouli:text",
+            "text":"$(mod)Travel Anchors$(), inspired by Ender IO, adds some teleportation items.$(br2)The $(item)Travel Staff$() allows you to teleport a short distance through blocks.$(br2)A named $(item)Travel Anchor$() can be seen through walls when holding the Staff, and can be teleported to at a greater distance."
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"travelanchors:travel_staff",
+            "recipe2":"travelanchors:travel_anchor"
+        }
+    ]
+}

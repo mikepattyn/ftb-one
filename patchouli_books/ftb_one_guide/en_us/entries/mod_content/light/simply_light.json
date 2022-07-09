@@ -1,0 +1,13 @@
+{
+    "name": "Simply Light",
+    "icon": "simplylight:lamp_post",
+    "category": "patchouli:mod_content/light",
+    "pages": [
+        {
+            "type":"patchouli:spotlight",
+            "item":"simplylight:lamp_post",
+            "title":"Simply Light",
+            "text":"$(mod)Simply Light$() adds a bunch of simple light blocks. "
+        }
+    ]
+}

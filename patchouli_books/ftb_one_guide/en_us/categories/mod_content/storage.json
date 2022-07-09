@@ -1,0 +1,7 @@
+{
+    "name": "Storage",
+    "description": "The various ways to store items and fluids in the pack.",
+    "icon": "minecraft:chest",
+    "parent": "patchouli:mod_content",
+    "sortnum": 5
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Tom's Simple Storage",
+    "icon": "toms_storage:ts.level_emitter",
+    "category": "patchouli:mod_content/storage/items",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(mod)Tom's Simple Storage Mod$() is a simple vanilla-style storage mod.$(br2)"
+        },
+        {
+            "type":"patchouli:image",
+            "images":["ftb_one:textures/patchouli/screenshots/tomssm.png"],
+            "text":"Image taken from mod page"
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"toms_storage:ts.storage_terminal",
+            "text":"The $(item)Storage Terminal$() can be placed on any inventory, and allows you to access its item.$(br2)The Terminal shows the items more akin to Applied Energistics and Refined Storage, rather than normal Chest-like behavior."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"toms_storage:ts.inventory_connector",
+            "text":"The $(item)Inventory Connector$() works kind of like a Drawer Controller; it uses the inventory of all blocks it is touching, as well as all inventory blocks $(o)they$() are touching, and so on.$(br2)Access it with a Storage Terminal."
+        },
+        {
+            "title":"Inventory Connector",
+            "type":"patchouli:image",
+            "images":["ftb_one:textures/patchouli/screenshots/tomssm_connector.png"],
+            "text":"The Connector has access to all 6 Chests"
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"toms_storage:ts.trim",
+            "text":"The Inventory Connector has a range of 16 blocks. You can use $(item)Inventory Trim$() to connect inventories that aren't touching."
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"toms_storage:inventory_cable",
+            "recipe2":"toms_storage:inventory_cable_connector"
+        },
+        {
+            "type":"patchouli:text",
+            "text":"$(item)Inventory Cables$() allow you to connect distant network parts. A network must have an Inventory Connector.$(br2)$(item)Inventory Cable Connectors$() can be placed on inventories to add them to the network, or placed on other parts (like Terminals) to provide them access to the network's items."
+        },
+        {
+            "title":"Inventory Networks",
+            "type":"patchouli:image",
+            "images":["ftb_one:textures/patchouli/screenshots/tomssm_cable.png"],
+            "text":"The two chests can be accessed from the Terminal."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"toms_storage:ts.crafting_terminal",
+            "text":"The $(item)Crafting Terminal$() is an upgrade to the Storage Terminal, as it has a 3x3 crafting grid.$(br2)It has a handful of options on the left side."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"toms_storage:ts.wireless_terminal",
+            "text":"The $(item)Wireless Terminal$() allows you to open Terminals from up to 16 blocks away.$(br2)In particular, it simply increases your reach $(o)exclusively$() to Terminals when held. You have to be looking at a Terminal to use it, you can simply be farther away."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"toms_storage:ts.adv_wireless_terminal",
+            "text":"The $(item)Advanced Wireless Terminal$() can be bound to a Terminal, and then can be used to access it from within 64 blocks.$(br2)You can increase the range by constructing a Beacon nearby; see the Terminal's tooltip."
+        },
+        {
+            "type":"patchouli:crafting",
+            "recipe":"toms_storage:inventory_cable_connector_filtered",
+            "text":"The $(item)Inventory Cable Connector (Filtered)$() allows you to filter what items it can access, using its GUI."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"toms_storage:ts.inventory_hopper_basic",
+            "text":"The $(item)Basic Inventory Hopper$() allows you to import/export an item from storage.$(br2)Right-click with an item to set what it exports. Shift right-click with an empty hand to clear.$(br2)They cannot pull, you have to insert into them."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"toms_storage:ts.level_emitter",
+            "text":"The $(item)Level Emitter$() can be given an item and an amount, and will emit a redstone signal if the network has more/less of the item than the amount."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"toms_storage:ts.open_crate",
+            "text":"The $(item)Open Crate$() can see all the dropped items in front of it as if they were in its inventory. It has to be aimed at an air block to work."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "item":"toms_storage:ts.inventory_proxy",
+            "text":"Aim an $(item)Inventory Proxy$() at any side of a block, and the Proxy will act as it to pipes.$(br2)For example, aim it at the bottom of a Furnace and every face of the Proxy can be pulled from to empty the Furnace."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"A Cable Connector placed on a $(item)Beacon$() allows you to $(info)connect multiple networks at a distance$(), based on Beacon tier.$(br2)In the Connector's GUI, name and create a channel, and then connect both networks to it."
+        }
+    ]
+}

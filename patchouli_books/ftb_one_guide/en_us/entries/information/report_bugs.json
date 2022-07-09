@@ -1,0 +1,14 @@
+{
+    "name": "Report Bugs",
+    "icon": "minecraft:bee_nest",
+    "category": "patchouli:information",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "text": "If you find any issues while playing, please report them here!",
+            "url":"https://github.com/FTBTeam/FTB-Modpack-Issues/issues",
+            "link_text":"Modpack Issues"
+        }
+    ],
+    "sortnum":1
+}

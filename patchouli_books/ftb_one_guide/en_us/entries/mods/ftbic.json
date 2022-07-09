@@ -1,0 +1,15 @@
+{
+    "name": "FTB Industrial Contraptions",
+    "icon": "ftbic:powered_furnace",
+    "category": "patchouli:mods",
+    "pages": [
+        {
+            "type":"patchouli:text",
+            "text":"$(mod)FTB Industrial Contraptions$() is a rather new tech mod, highly inspired by the likes of Industrial Craft.$(br2)It has basically everything you can expect from a tech mod, though it does not have pipes."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"Additionally, it $(n)does not run on FE$(). It has its own power system: $(item)Zaps$() (⚡)!$(br2)Zaps can convert into FE (1⚡=4 FE) by Cables and Generators, but you cannot convert FE into Zaps."
+        }
+    ]
+}

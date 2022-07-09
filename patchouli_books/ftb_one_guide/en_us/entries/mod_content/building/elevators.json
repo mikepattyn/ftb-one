@@ -1,0 +1,15 @@
+{
+    "name": "Elevators",
+    "icon": "elevatorid:elevator_white",
+    "category": "patchouli:mod_content/building",
+    "pages": [
+        {
+            "type":"patchouli:text",
+            "text":"$(mod)Elevator Mod$() is a mod that adds $(item)Elevators$().$(br2)Jumping on an Elevator will teleport you to an Elevator above, and sneaking will send you to one below."
+        },
+        {
+            "type":"patchouli:text",
+            "text":"There can be blocks between the Elevator blocks, and the range has been set to 384 blocks up or down (so limitless, basically)."
+        }
+    ]
+}

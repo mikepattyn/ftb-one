@@ -1,0 +1,13 @@
+{
+    "name": "Charging Gadgets",
+    "icon": "charginggadgets:charging_station",
+    "category": "patchouli:mod_content/tech",
+    "pages": [
+        {
+            "type":"patchouli:spotlight",
+            "item":"charginggadgets:charging_station",
+            "title":"Charging Gadgets",
+            "text":"$(mod)Charging Gadgets$() adds the $(item)Charging Station$(), which can $(info)charge items with FE$().$(br2)It can also $(info)burn furnace fuels to make FE$()."
+        }
+    ]
+}

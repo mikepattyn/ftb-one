@@ -1,0 +1,14 @@
+{
+    "name":"FTB One Guide",
+    "landing_text":"The guide for FTB One",
+    "subtitle":"by Feed the Beast",
+    "use_blocky_font": true,
+    "model": "ftb_one:ftb_one_guide",
+    "book_texture": "ftb_one:textures/patchouli/guide_book_pages.png",
+    "version":1,
+    "macros": {
+        "$(mod)":"$(5)",
+        "$(item)":"$(1)",
+        "$(info)":"$(8)"
+    }
+}

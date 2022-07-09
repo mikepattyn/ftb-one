@@ -1,0 +1,7 @@
+{
+    "name": "Fluids",
+    "description": "Storing fluids",
+    "icon": "minecraft:bucket",
+    "parent": "patchouli:mod_content/storage",
+    "sortnum":1
+}

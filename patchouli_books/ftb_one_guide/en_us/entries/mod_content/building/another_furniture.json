@@ -1,0 +1,11 @@
+{
+    "name": "Another Furniture",
+    "icon": "another_furniture:oak_table",
+    "category": "patchouli:mod_content/building",
+    "pages": [
+        {
+            "type":"patchouli:text",
+            "text":"$(mod)Another Furniture$() adds more furniture!$(br2)Search REI for \"@another_furniture\" to see a full list of blocks."
+        }
+    ]
+}
